@@ -1,1 +1,4 @@
-error code: 521
+{
+  "error": "blob (key \"QmTxq1YzNRUEqcZAG5ozYvmEVj8KS3X7n1YdvxiJwma31A/original.jpg\") (code=Unknown): operation error S3: GetObject, https response error StatusCode: 403, RequestID: ea06f40e6c9055c3, HostID: aMYg3U2WqYgFi6WLyNVUwmGWdM7YwsTX0, api error AccessDenied: Cannot download file, download bandwidth or transaction (Class B) cap exceeded. See the Caps \u0026 Alerts page to increase your cap.",
+  "message": "Internal Server Error"
+}
