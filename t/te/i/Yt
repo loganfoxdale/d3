@@ -1,4 +1,1 @@
-{
-  "error": "blob (key \"QmXjgiRkxnRPEW1gnYVyFr4S34Wof4EWYSfgfhJoKbwsMJ/original.jpg\") (code=Unknown): operation error S3: GetObject, https response error StatusCode: 403, RequestID: fd356743634e447f, HostID: aYbM2hmbOONU18zi8NChk4mU9N0EyHmLd, api error AccessDenied: Cannot download file, download bandwidth or transaction (Class B) cap exceeded. See the Caps \u0026 Alerts page to increase your cap.",
-  "message": "Internal Server Error"
-}
+error code: 502
